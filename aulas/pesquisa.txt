@@ -49,3 +49,41 @@
 * Pouco útil para programas comuns.
 
 ---
+## O que é o kernel no Linux?
+
+O **kernel** é o núcleo do sistema operacional Linux. Ele faz a ligação entre o **hardware** e os **programas**.
+
+## Para que serve?
+
+- Gerenciar a **memória (RAM)**
+- Controlar o **processador (CPU)**
+- Controlar **dispositivos** (disco, teclado, rede, vídeo etc.)
+- Gerenciar **processos** (programas em execução)
+- Garantir **segurança e permissões**
+
+## Resumo curto
+
+**O kernel Linux é o núcleo que controla o hardware e faz o sistema funcionar.**
+
+## O que é OEM?
+**OEM (Original Equipment Manufacturer)** é um produto ou peça feita pelo fabricante original para ser usada por outra empresa.
+
+## Para que serve?
+- Indicar peças ou componentes **originais de fábrica**  
+- Licenças de software usadas por fabricantes (ex.: Windows OEM)
+- Componentes usados na montagem de PCs e notebooks
+
+## Resumo curto
+**OEM é um produto original fornecido pelo fabricante para montadoras ou empresas.**
+
+## O que é o kernel-oem no Linux?
+O **kernel-oem** é uma versão especial do kernel Linux feita para **fabricantes de hardware (OEMs)** e otimizada para **computadores mais novos**.
+
+## Para que serve?
+- Suportar **hardware recente** (placas de vídeo, Wi-Fi, processadores, etc.)
+- Incluir **drivers mais atualizados**
+- Melhorar **desempenho** em máquinas modernas
+- Corrigir problemas que ainda não foram resolvidos no kernel padrão
+
+## Resumo curto
+**O kernel-oem é um kernel otimizado para PCs novos, com drivers e suporte mais recente que o kernel padrão.**
